@@ -2,4 +2,4 @@
 
 readme de exemplo
 
-Usamos o comando >> git pull, git clone, criamos uma branch, alteramos a branch, unificamos os ramos, criei tag. <<
+Usamos o comando >> git init, git status, git add, git commit, git add ., git push -u origin master, git pull. <<
